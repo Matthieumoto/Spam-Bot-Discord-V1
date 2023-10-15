@@ -33,7 +33,7 @@ Exécutez le fichier `parle_pour_moi.py` pour démarrer le bot.
 - Entrez le message que vous souhaitez envoyer.
 - Spécifiez le nombre de fois que vous souhaitez envoyer le message.
 
-Le bot passera automatiquement à la fenêtre Discord (Si la feunetre discord est la suivante sur "Alt-Tab") et enverra les messages.
+Le bot passera automatiquement à la fenêtre Discord (Si la fenêtre Discord est la suivante sur "Alt-Tab") et enverra les messages.
 
 **Note :** Veillez à ne pas utiliser d'autres applications qui pourraient interférer avec le contrôle automatisé du bot pendant son exécution.
 
